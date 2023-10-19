@@ -9,4 +9,3 @@
 ## Features 
 - HTML , CSS , Bootsrap , Java Script , Media queries.
 - Completly Responsive.
-- 
